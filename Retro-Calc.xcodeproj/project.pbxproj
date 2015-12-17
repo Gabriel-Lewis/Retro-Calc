@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C010D6901C21D69500E9ADE6 /* clear.png in Resources */ = {isa = PBXBuildFile; fileRef = C010D68F1C21D69500E9ADE6 /* clear.png */; };
+		C010D6951C21D6A500E9ADE6 /* launchbg.png in Resources */ = {isa = PBXBuildFile; fileRef = C010D6911C21D6A500E9ADE6 /* launchbg.png */; };
+		C010D6961C21D6A500E9ADE6 /* launchground.png in Resources */ = {isa = PBXBuildFile; fileRef = C010D6921C21D6A500E9ADE6 /* launchground.png */; };
+		C010D6971C21D6A500E9ADE6 /* Retro-Calc.png in Resources */ = {isa = PBXBuildFile; fileRef = C010D6931C21D6A500E9ADE6 /* Retro-Calc.png */; };
+		C010D6981C21D6A500E9ADE6 /* robot.png in Resources */ = {isa = PBXBuildFile; fileRef = C010D6941C21D6A500E9ADE6 /* robot.png */; };
 		C0FD77821C20C760006B5E99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FD77811C20C760006B5E99 /* AppDelegate.swift */; };
 		C0FD77841C20C760006B5E99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FD77831C20C760006B5E99 /* ViewController.swift */; };
 		C0FD77871C20C760006B5E99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77851C20C760006B5E99 /* Main.storyboard */; };
@@ -14,6 +19,27 @@
 		C0FD778C1C20C760006B5E99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FD778A1C20C760006B5E99 /* LaunchScreen.storyboard */; };
 		C0FD77971C20C761006B5E99 /* Retro_CalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FD77961C20C761006B5E99 /* Retro_CalcTests.swift */; };
 		C0FD77A21C20C761006B5E99 /* Retro_CalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FD77A11C20C761006B5E99 /* Retro_CalcUITests.swift */; };
+		C0FD77C21C20D1F8006B5E99 /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77AF1C20D1F8006B5E99 /* 0.png */; };
+		C0FD77C31C20D1F8006B5E99 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B01C20D1F8006B5E99 /* 1.png */; };
+		C0FD77C41C20D1F8006B5E99 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B11C20D1F8006B5E99 /* 2.png */; };
+		C0FD77C51C20D1F8006B5E99 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B21C20D1F8006B5E99 /* 3.png */; };
+		C0FD77C61C20D1F8006B5E99 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B31C20D1F8006B5E99 /* 4.png */; };
+		C0FD77C71C20D1F8006B5E99 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B41C20D1F8006B5E99 /* 5.png */; };
+		C0FD77C81C20D1F8006B5E99 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B51C20D1F8006B5E99 /* 6.png */; };
+		C0FD77C91C20D1F8006B5E99 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B61C20D1F8006B5E99 /* 7.png */; };
+		C0FD77CA1C20D1F8006B5E99 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B71C20D1F8006B5E99 /* 8.png */; };
+		C0FD77CB1C20D1F8006B5E99 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B81C20D1F8006B5E99 /* 9.png */; };
+		C0FD77CC1C20D1F8006B5E99 /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77B91C20D1F8006B5E99 /* add.png */; };
+		C0FD77CD1C20D1F8006B5E99 /* backpanel.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77BA1C20D1F8006B5E99 /* backpanel.png */; };
+		C0FD77CE1C20D1F8006B5E99 /* counter.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77BB1C20D1F8006B5E99 /* counter.png */; };
+		C0FD77CF1C20D1F8006B5E99 /* divide.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77BC1C20D1F8006B5E99 /* divide.png */; };
+		C0FD77D01C20D1F8006B5E99 /* equal.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77BD1C20D1F8006B5E99 /* equal.png */; };
+		C0FD77D11C20D1F8006B5E99 /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77BE1C20D1F8006B5E99 /* ground.png */; };
+		C0FD77D21C20D1F8006B5E99 /* multiply.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77BF1C20D1F8006B5E99 /* multiply.png */; };
+		C0FD77D31C20D1F8006B5E99 /* space-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77C01C20D1F8006B5E99 /* space-bg.png */; };
+		C0FD77D41C20D1F8006B5E99 /* subtract.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77C11C20D1F8006B5E99 /* subtract.png */; };
+		C0FD77D61C20D3F6006B5E99 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77D51C20D3F6006B5E99 /* btn.wav */; };
+		C0FD77D81C20D544006B5E99 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C0FD77D71C20D544006B5E99 /* Minecraft.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +60,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C010D68F1C21D69500E9ADE6 /* clear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = clear.png; path = ../../../Downloads/retrocalcexercisegraphics/clear.png; sourceTree = "<group>"; };
+		C010D6911C21D6A500E9ADE6 /* launchbg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launchbg.png; path = ../../../Downloads/retrocalcexercisegraphics/launchbg.png; sourceTree = "<group>"; };
+		C010D6921C21D6A500E9ADE6 /* launchground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launchground.png; path = ../../../Downloads/retrocalcexercisegraphics/launchground.png; sourceTree = "<group>"; };
+		C010D6931C21D6A500E9ADE6 /* Retro-Calc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Retro-Calc.png"; path = "../../../Downloads/retrocalcexercisegraphics/Retro-Calc.png"; sourceTree = "<group>"; };
+		C010D6941C21D6A500E9ADE6 /* robot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = robot.png; path = ../../../Downloads/retrocalcexercisegraphics/robot.png; sourceTree = "<group>"; };
 		C0FD777E1C20C760006B5E99 /* Retro-Calc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Retro-Calc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0FD77811C20C760006B5E99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C0FD77831C20C760006B5E99 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +78,27 @@
 		C0FD779D1C20C761006B5E99 /* Retro-CalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Retro-CalcUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0FD77A11C20C761006B5E99 /* Retro_CalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Retro_CalcUITests.swift; sourceTree = "<group>"; };
 		C0FD77A31C20C761006B5E99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0FD77AF1C20D1F8006B5E99 /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 0.png; path = "../../../Downloads/retro-graphics/0.png"; sourceTree = "<group>"; };
+		C0FD77B01C20D1F8006B5E99 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = "../../../Downloads/retro-graphics/1.png"; sourceTree = "<group>"; };
+		C0FD77B11C20D1F8006B5E99 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.png; path = "../../../Downloads/retro-graphics/2.png"; sourceTree = "<group>"; };
+		C0FD77B21C20D1F8006B5E99 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = "../../../Downloads/retro-graphics/3.png"; sourceTree = "<group>"; };
+		C0FD77B31C20D1F8006B5E99 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4.png; path = "../../../Downloads/retro-graphics/4.png"; sourceTree = "<group>"; };
+		C0FD77B41C20D1F8006B5E99 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.png; path = "../../../Downloads/retro-graphics/5.png"; sourceTree = "<group>"; };
+		C0FD77B51C20D1F8006B5E99 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 6.png; path = "../../../Downloads/retro-graphics/6.png"; sourceTree = "<group>"; };
+		C0FD77B61C20D1F8006B5E99 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 7.png; path = "../../../Downloads/retro-graphics/7.png"; sourceTree = "<group>"; };
+		C0FD77B71C20D1F8006B5E99 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 8.png; path = "../../../Downloads/retro-graphics/8.png"; sourceTree = "<group>"; };
+		C0FD77B81C20D1F8006B5E99 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 9.png; path = "../../../Downloads/retro-graphics/9.png"; sourceTree = "<group>"; };
+		C0FD77B91C20D1F8006B5E99 /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = add.png; path = "../../../Downloads/retro-graphics/add.png"; sourceTree = "<group>"; };
+		C0FD77BA1C20D1F8006B5E99 /* backpanel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = backpanel.png; path = "../../../Downloads/retro-graphics/backpanel.png"; sourceTree = "<group>"; };
+		C0FD77BB1C20D1F8006B5E99 /* counter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = counter.png; path = "../../../Downloads/retro-graphics/counter.png"; sourceTree = "<group>"; };
+		C0FD77BC1C20D1F8006B5E99 /* divide.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = divide.png; path = "../../../Downloads/retro-graphics/divide.png"; sourceTree = "<group>"; };
+		C0FD77BD1C20D1F8006B5E99 /* equal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = equal.png; path = "../../../Downloads/retro-graphics/equal.png"; sourceTree = "<group>"; };
+		C0FD77BE1C20D1F8006B5E99 /* ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ground.png; path = "../../../Downloads/retro-graphics/ground.png"; sourceTree = "<group>"; };
+		C0FD77BF1C20D1F8006B5E99 /* multiply.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = multiply.png; path = "../../../Downloads/retro-graphics/multiply.png"; sourceTree = "<group>"; };
+		C0FD77C01C20D1F8006B5E99 /* space-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "space-bg.png"; path = "../../../Downloads/retro-graphics/space-bg.png"; sourceTree = "<group>"; };
+		C0FD77C11C20D1F8006B5E99 /* subtract.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = subtract.png; path = "../../../Downloads/retro-graphics/subtract.png"; sourceTree = "<group>"; };
+		C0FD77D51C20D3F6006B5E99 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = btn.wav; path = ../../../Downloads/btn.wav; sourceTree = "<group>"; };
+		C0FD77D71C20D544006B5E99 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Minecraft.ttf; path = ../../../Downloads/Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +153,32 @@
 				C0FD77831C20C760006B5E99 /* ViewController.swift */,
 				C0FD77851C20C760006B5E99 /* Main.storyboard */,
 				C0FD77881C20C760006B5E99 /* Assets.xcassets */,
+				C0FD77D71C20D544006B5E99 /* Minecraft.ttf */,
+				C0FD77D51C20D3F6006B5E99 /* btn.wav */,
+				C0FD77AF1C20D1F8006B5E99 /* 0.png */,
+				C0FD77B01C20D1F8006B5E99 /* 1.png */,
+				C0FD77B11C20D1F8006B5E99 /* 2.png */,
+				C0FD77B21C20D1F8006B5E99 /* 3.png */,
+				C0FD77B31C20D1F8006B5E99 /* 4.png */,
+				C0FD77B41C20D1F8006B5E99 /* 5.png */,
+				C0FD77B51C20D1F8006B5E99 /* 6.png */,
+				C0FD77B61C20D1F8006B5E99 /* 7.png */,
+				C0FD77B71C20D1F8006B5E99 /* 8.png */,
+				C0FD77B81C20D1F8006B5E99 /* 9.png */,
+				C0FD77B91C20D1F8006B5E99 /* add.png */,
+				C0FD77BA1C20D1F8006B5E99 /* backpanel.png */,
+				C0FD77BB1C20D1F8006B5E99 /* counter.png */,
+				C0FD77BC1C20D1F8006B5E99 /* divide.png */,
+				C0FD77BD1C20D1F8006B5E99 /* equal.png */,
+				C010D68F1C21D69500E9ADE6 /* clear.png */,
+				C0FD77BE1C20D1F8006B5E99 /* ground.png */,
+				C010D6911C21D6A500E9ADE6 /* launchbg.png */,
+				C010D6921C21D6A500E9ADE6 /* launchground.png */,
+				C010D6931C21D6A500E9ADE6 /* Retro-Calc.png */,
+				C010D6941C21D6A500E9ADE6 /* robot.png */,
+				C0FD77BF1C20D1F8006B5E99 /* multiply.png */,
+				C0FD77C01C20D1F8006B5E99 /* space-bg.png */,
+				C0FD77C11C20D1F8006B5E99 /* subtract.png */,
 				C0FD778A1C20C760006B5E99 /* LaunchScreen.storyboard */,
 				C0FD778D1C20C760006B5E99 /* Info.plist */,
 			);
@@ -232,9 +310,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0FD77D31C20D1F8006B5E99 /* space-bg.png in Resources */,
+				C010D6971C21D6A500E9ADE6 /* Retro-Calc.png in Resources */,
+				C010D6951C21D6A500E9ADE6 /* launchbg.png in Resources */,
+				C0FD77CA1C20D1F8006B5E99 /* 8.png in Resources */,
+				C0FD77C91C20D1F8006B5E99 /* 7.png in Resources */,
+				C0FD77CF1C20D1F8006B5E99 /* divide.png in Resources */,
+				C0FD77D61C20D3F6006B5E99 /* btn.wav in Resources */,
+				C0FD77C41C20D1F8006B5E99 /* 2.png in Resources */,
+				C010D6981C21D6A500E9ADE6 /* robot.png in Resources */,
+				C0FD77C21C20D1F8006B5E99 /* 0.png in Resources */,
+				C0FD77CB1C20D1F8006B5E99 /* 9.png in Resources */,
 				C0FD778C1C20C760006B5E99 /* LaunchScreen.storyboard in Resources */,
+				C0FD77D21C20D1F8006B5E99 /* multiply.png in Resources */,
+				C0FD77D41C20D1F8006B5E99 /* subtract.png in Resources */,
 				C0FD77891C20C760006B5E99 /* Assets.xcassets in Resources */,
+				C0FD77CC1C20D1F8006B5E99 /* add.png in Resources */,
+				C010D6961C21D6A500E9ADE6 /* launchground.png in Resources */,
+				C0FD77C81C20D1F8006B5E99 /* 6.png in Resources */,
+				C0FD77D11C20D1F8006B5E99 /* ground.png in Resources */,
+				C0FD77CD1C20D1F8006B5E99 /* backpanel.png in Resources */,
+				C0FD77C61C20D1F8006B5E99 /* 4.png in Resources */,
+				C010D6901C21D69500E9ADE6 /* clear.png in Resources */,
 				C0FD77871C20C760006B5E99 /* Main.storyboard in Resources */,
+				C0FD77D81C20D544006B5E99 /* Minecraft.ttf in Resources */,
+				C0FD77C71C20D1F8006B5E99 /* 5.png in Resources */,
+				C0FD77D01C20D1F8006B5E99 /* equal.png in Resources */,
+				C0FD77C51C20D1F8006B5E99 /* 3.png in Resources */,
+				C0FD77CE1C20D1F8006B5E99 /* counter.png in Resources */,
+				C0FD77C31C20D1F8006B5E99 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,6 +591,7 @@
 				C0FD77A81C20C761006B5E99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C0FD77A91C20C761006B5E99 /* Build configuration list for PBXNativeTarget "Retro-CalcTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +600,7 @@
 				C0FD77AB1C20C761006B5E99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C0FD77AC1C20C761006B5E99 /* Build configuration list for PBXNativeTarget "Retro-CalcUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +609,7 @@
 				C0FD77AE1C20C761006B5E99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
